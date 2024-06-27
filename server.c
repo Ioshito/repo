@@ -3,7 +3,7 @@
 
 
 int main() {
-	printf("Server");
+	printf("Server.c");
 
 	return 0;
 }
